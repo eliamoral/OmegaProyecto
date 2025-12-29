@@ -1,0 +1,14 @@
+.task-tile {
+	display: block;
+	border: 1px solid #67d25d;
+	border-radius: .25rem;
+	background-color: #e7fad2;
+    cursor: pointer;
+}
+.task-tile-urgent {
+	display: block;
+	border: 1px solid #d12a2a;
+	border-radius: .25rem;
+	background-color: #fad3d2;
+    cursor: pointer;
+}
